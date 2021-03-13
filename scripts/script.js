@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Eletro 2021 EDM",
+          artist: "Various",
+          cover: "",
+          source: "",
+          url: "https://www.youtube.com/watch?v=WdBldz3YLss",
+          favorited: false
+        },
+        {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
